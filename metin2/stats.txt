@@ -1,0 +1,4 @@
+<html><head><title>Informacje o postaci</title></head>
+<body text=white bgcolor=black><center><img src=addons/amxmodx/metin2/metin2head.png></img></center></body>
+<b><br />Masz dodatkowo 180 zycia<br />Masz 9 inteligencji co daje ci dodatkowo 9 many<br />Masz 90 sily co daje ci dodatkowo 30 obrazen<br />Masz 90 zrecznosci co daje ci szanse 1 do 5 ze unikniesz pocisku<br />Masz 45 defense co zmniejsza obrazenia jakie dostajesz o 22</b>
+</html>

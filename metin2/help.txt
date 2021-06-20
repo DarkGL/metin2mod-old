@@ -1,0 +1,19 @@
+<html><head><title>Metin2 MOD</title></head>
+
+<center><font face="Arial">
+
+<big>/klasa</big><br>
+Mozesz wybrac jaka postacia chcesz grac, mozesz rowniez zmieniæ swoja postac w pozniejszej grze.<br>
+<big>/postac</big><br>
+Info o postaci.<br>
+<big>/reset</big><br>
+Resetujesz swoje punkty ¿ycia, inteligecji, sily i zrecznosci. Musisz ponownie je przydzieliæ.<br>
+<big>/staty</big><br>
+Pokazuje twoje doswiadczenie w grze (hp,str,int i dex).<br>
+<big>/komendy</big><br>
+Wyswietla liste komend.<br><br>
+<big>/itemy</big><br>
+Wyswietla menu itemow.<br><br>
+
+</font></center>
+</body></html>

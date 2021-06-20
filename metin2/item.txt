@@ -1,0 +1,11 @@
+<html><head><title>Informacje o Broni</title></head>
+<body bgcolor = black>
+<center><br /><font color=#e5e8df>Ebonitowa Bransoleta</font><br />
+<font color=#9e9e9>Od Poziomu:33</font><br />
+<font color=#b28687>HP : + 1</font><br />
+<font color=#9e9e9>[Do ubrania]</font><br />
+<font color=#f4f4f4>Wojownik</font>
+<font color=#f4f4f4>Ninja</font>
+<font color=#f4f4f4>Sura</font>
+<font color=#f4f4f4>Szaman</font>
+</body></html>

@@ -1,0 +1,6 @@
+<html><head><title>Informacje o postaci</title></head>
+<body bgcolor=black><center></center></body>
+<p align=center><font color=yellow>Nick:RaZz ;]<br />Klasa:Wojownik<br />Krolestwo:Jinno<br />Level:74<br />Ranga: 200 || <font color=white>Neutralny</font><br />Czas gry:153<br />Obecnie posiadany exp:150290<br />EXP wymagany na nastêpny level:154000<br />
+HP:90<br />MP:0<br />STR:42<br />DEX:90<br />Szybkosc ruchu:249.999999<br />Uniki:</p>
+<br /><br /><br /><br /><br /><br /><br /><br />
+</html>
